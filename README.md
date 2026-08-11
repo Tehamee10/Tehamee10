@@ -185,19 +185,19 @@ The system analyzes body landmarks and classifies different human movements.
 🚧 In Development.
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tehamee10&show_icons=true&theme=github_dark" width="48%" />
+<img src="https://tehamee-github-stats-3wswn1g2o-exerciseapi.vercel.app/api?username=Tehamee10&show_icons=true&theme=github_dark" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehamee10&layout=compact&theme=github_dark" width="48%" />
+<img src="https://tehamee-github-stats-3wswn1g2o-exerciseapi.vercel.app/api/top-langs/?username=Tehamee10&layout=compact&theme=github_dark" width="48%" />
 
 </div>
 
----
 
+
+---
 ## 📈 Contribution Graph
 
 <div align="center">

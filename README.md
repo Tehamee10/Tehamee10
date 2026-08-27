@@ -202,7 +202,9 @@ The system analyzes body landmarks and classifies different human movements.
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph-lht80cflh-exerciseapi.vercel.app/graph?username=Tehamee10" width="95%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tehamee10&theme=github-compact&hide_border=true" width="95%" />
+
 </div>
 
 ---

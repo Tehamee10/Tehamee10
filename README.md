@@ -203,7 +203,7 @@ The system analyzes body landmarks and classifies different human movements.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tehamee10&theme=github-compact&hide_border=true&custom_title=Tehamee%20Raheel%27s%20Contribution%20Graph" alt="GitHub Contribution Graph" width="95%">
+<img src="https://github-readme-stats.vercel.app/api?username=Tehamee10&show_icons=true&hide_title=true&hide_border=true" width="95%" />
 
 </div>
 
